@@ -14,6 +14,7 @@ def nline(amnt = 1):
     for x in range(amnt):
         print('')
 
+
 # decorate - Decorates a specified string
 # Types:
 # line - makes two lines centered above and below text
